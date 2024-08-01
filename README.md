@@ -8,7 +8,7 @@
 ######
 
 
-### Olá, sou o Matheus Felipe, um jovem de 18 anos apaixonado por tecnologia e atualmente cursando Engenharia de Software na PUC Minas - Campus Coração Eucarístico.👋
+### Olá, sou o Matheus Felipe, um jovem de 19 anos apaixonado por tecnologia e atualmente cursando Engenharia de Software na PUC Minas - Campus Coração Eucarístico.👋
 
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFelipeCorrea&show_icons=true&theme=radical) ![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFelipeCorrea&theme=radical) ![Atividade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusFelipeCorrea&theme=radical)
