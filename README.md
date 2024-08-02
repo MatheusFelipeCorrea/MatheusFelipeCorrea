@@ -44,7 +44,7 @@
 
 
 # O que estou ouvindo?
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215h3r56ko57uurfbpdo46loy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) 
+
 [![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215h3r56ko57uurfbpdo46loy)](https://github.com/JamesCastagnetto/spotify-recently-played-readme)
 
 # Linguagens usadas no dia a dia
