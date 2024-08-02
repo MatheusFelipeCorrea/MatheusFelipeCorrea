@@ -22,11 +22,12 @@
 
 ## Formação
 
-###  Engenharia de softwares Puc Minas (Matutino) Início em 02/ 2024 Conclusão em 01/2028 (Em curso)
+### Bootcamp Xp.inc e DIO  -   Início em 08/2024 - Conclusão 11/2024 (Em curso)
+###  Engenharia de softwares Puc Minas (Matutino) -   Início em 02/ 2024 Conclusão em 01/2028 (Em curso)
 
-###  Colégio Santa Maria (Fundamental I ao Médio ) Início em 02/ 2012 Conclusão em 11/2023
+###  Colégio Santa Maria (Fundamental I ao Médio ) -   Início em 02/ 2012 Conclusão em 11/2023
 
-### Zion (Design Gráfico e de jogos) Início em 06/2019 Conclusão em 08/2021 
+### Zion (Design Gráfico e de jogos) -   Início em 06/2019 Conclusão em 08/2021 
 
 ## Habilidades
 
