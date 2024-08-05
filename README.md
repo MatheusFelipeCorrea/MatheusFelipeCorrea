@@ -9,11 +9,9 @@
 
 ----
 
-<img align="right" height="250" src="https://github.com/MatheusFelipeCorrea/MatheusFelipeCorrea/blob/main/www.png?raw=true">
 
-<p>Olá, eu sou o Matheus Felipe, desenvolvedor apaixonado por tecnologia. No meu GitHub, você encontrará meus últimos projetos, contribuições e muito mais.
+## Olá, eu sou o Matheus Felipe, desenvolvedor apaixonado por tecnologia. No meu GitHub, você encontrará meus últimos projetos, contribuições e muito mais. Sou estudante de Engenharia de Software na PUC Minas - Coração Eucarístico e atuo como Desenvolvedor FullStack. Estou sempre em busca de novas oportunidades na área de tecnologia, além de ser um designer dedicado a aprimorar constantemente meus conhecimentos e habilidades.👋
 
-Sou estudante de Engenharia de Software na PUC Minas - Coração Eucarístico e atuo como Desenvolvedor FullStack. Estou sempre em busca de novas oportunidades na área de tecnologia, além de ser um designer dedicado a aprimorar constantemente meus conhecimentos e habilidades.👋 <p>
 
 
 
