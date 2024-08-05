@@ -15,7 +15,7 @@
 
 Sou estudante de Engenharia de Software na PUC Minas - Coração Eucarístico e atuo como Desenvolvedor FullStack. Estou sempre em busca de novas oportunidades na área de tecnologia, além de ser um designer dedicado a aprimorar constantemente meus conhecimentos e habilidades.👋 <p>
 
-----
+
 
 
 <table>
