@@ -9,7 +9,7 @@
 
 ----
 
-<img align="right" height="380" src="https://github.com/MatheusFelipeCorrea/MatheusFelipeCorrea/blob/main/www.png?raw=true">
+<img align="right" height="300" src="https://github.com/MatheusFelipeCorrea/MatheusFelipeCorrea/blob/main/www.png?raw=true">
 
 <p>Olá, eu sou o Matheus Felipe, desenvolvedor apaixonado por tecnologia. No meu GitHub, você encontrará meus últimos projetos, contribuições e muito mais.
 
