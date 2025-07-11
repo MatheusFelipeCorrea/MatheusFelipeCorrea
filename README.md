@@ -143,7 +143,7 @@ Melhora a experiência do usuário ao lidar com a escassez de vagas.
 
 <h2>🔬 Projetos de Pesquisa</h2>
 
-<h3>🔹 <a href="#">Segurança na Injeção de Dependência</a></h3>
+<h3>🔹 <a href="https://github.com/MatheusFelipeCorrea/ProjetosDePesquisa/blob/main/Seguran%C3%A7a_na_Inje%C3%A7%C3%A3o_de_Depend%C3%AAncia__Melhores_Pr%C3%A1ticas_em_Sistemas_Orientados_a_Objetos.pdf">Segurança na Injeção de Dependência</a></h3>
 <p>
 Estudo focado em <strong>melhores práticas de segurança</strong> para injeção de dependência em <strong>sistemas orientados a objetos</strong>, buscando evitar vulnerabilidades comuns em aplicações modernas.
 </p>
