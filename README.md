@@ -292,9 +292,9 @@ Estudo focado em <strong>melhores práticas de segurança</strong> para injeçã
 
 <div align="center">
   <h3>🎧 O que estou ouvindo?</h3>
-  <a href="https://github.com/JamesCastagnetto/spotify-recently-played-readme" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=215h3r56ko57uurfbpdo46loy" alt="Música recente do Spotify" />
-  </a>
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=215h3r56ko57uurfbpdo46loy">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=215h3r56ko57uurfbpdo46loy" alt="Data Card for Spotify">
+</a>
 </div>
 
 
