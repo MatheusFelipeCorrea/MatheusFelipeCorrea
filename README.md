@@ -288,7 +288,7 @@ Estudo focado em <strong>melhores práticas de segurança</strong> para injeçã
 
 <br clear="both">
 
-<img align="right" height="250" style="margin-top: 100px;" src="https://i.imgur.com/oXOPSkC.png" />
+
 
 <div align="center">
   <h3>🎧 O que estou ouvindo?</h3>
