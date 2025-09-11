@@ -86,7 +86,20 @@
 
 ###
 
-<p align="left">- Full Stack Developer (C#, React) | DIO (Parceria com XP Inc.)<br>  - Carga horária: 127 horas<br><br>- Algoritmos e Programação Orientada a Objetos com Swift | HackaTruck<br>  - Carga horária: 50 horas<br><br> - Red Hat System Administration I 9.3 <br> Carga horária: 40 horas</p>
+<p align="left">
+- Full Stack Developer (C#, React) | DIO (Parceria com XP Inc.)<br>  
+  - Carga horária: 127 horas<br><br>
+
+- Algoritmos e Programação Orientada a Objetos com Swift | HackaTruck<br>  
+  - Carga horária: 50 horas<br><br>
+
+- Red Hat System Administration I 9.3 <br>  
+  - Carga horária: 40 horas<br><br>
+
+- GFT Start #7 - Java<br>  
+  - Carga horária: 71 horas
+</p>
+
 
 ### **🛠️ Habilidades**
 
