@@ -35,10 +35,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MatheusFelipeCorrea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
+        <img src="https://ghstats.dev/api/langs?username=MatheusFelipeCorrea&hide_border=true&max_langs=12&layout=horizontal_list" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusFelipeCorrea&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph" />
+        <img src="https://ghstats.dev/api/card?username=MatheusFelipeCorrea&hide_border=true&border_radius=4&size=compact&show_emoji=true" alt="GitHub Stats Card" />
       </td>
     </tr>
   </table>
